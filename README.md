@@ -8,6 +8,10 @@
 
 [ödev](https://app.patika.dev/courses/html/odev1)
 
+[ödev-update](https://app.patika.dev/courses/html/odev2)
+
+[patika dev](www.patika.dev)
+
 ---
 
 ### markdown <3
